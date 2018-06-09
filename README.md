@@ -1,5 +1,5 @@
 # KPL_compiler
-* These are 4 file:
+* These are 4 folder:
   * KPL: the compiler, use in final test (written by Prof.)
   * interpreter: the virtual machine for running binary created by KPL(written by Prof.)
   * stack_machine_compiler: create binary from stack machine assembly. 
